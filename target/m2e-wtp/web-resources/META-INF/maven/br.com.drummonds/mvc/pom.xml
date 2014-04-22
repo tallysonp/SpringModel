@@ -23,7 +23,7 @@
     <groupId>br.com.drummonds</groupId>
     <artifactId>mvc</artifactId>
     <packaging>war</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>JBoss WFK Quickstart: kitchensink-spring-basic</name>
     <description>Getting Started with Spring on JBoss</description>
