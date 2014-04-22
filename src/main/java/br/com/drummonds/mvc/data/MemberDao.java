@@ -28,4 +28,6 @@ public interface MemberDao {
     public List<Member> findAllOrderedByName();
 
     public void register(Member member);
+    
+    public void update(Member member);
 }
