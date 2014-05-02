@@ -14,12 +14,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package br.com.drummonds.mvc.controller;
+package br.com.starbeli.admin.controller;
 
 import java.util.List;
 
-import br.com.drummonds.mvc.data.MemberDao;
-import br.com.drummonds.mvc.model.Member;
+import br.com.starbeli.admin.data.MemberDao;
+import br.com.starbeli.admin.model.Member;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

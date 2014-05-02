@@ -14,11 +14,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package br.com.drummonds.mvc.data;
+package br.com.starbeli.admin.data;
 
 import java.util.List;
 
-import br.com.drummonds.mvc.model.Member;
+import br.com.starbeli.admin.model.Member;
 
 public interface MemberDao {
     public Member findById(Long id);
